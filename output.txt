@@ -1,0 +1,101 @@
+Muse,Kasabian
+Muse,Death Cab for Cutie
+Muse,Franz Ferdinand
+Muse,Radiohead
+Muse,Incubus
+Muse,Coldplay
+Muse,The Killers
+Muse,Metallica
+Muse,Placebo
+Muse,Queen
+Muse,The Beatles
+The Cure,Muse
+The Cure,Radiohead
+Britney Spears,Lady Gaga
+Paramore,Muse
+Paramore,Lady Gaga
+Arctic Monkeys,Muse
+Arctic Monkeys,Franz Ferdinand
+Arctic Monkeys,Radiohead
+Arctic Monkeys,Kings of Leon
+Arctic Monkeys,Coldplay
+Arctic Monkeys,Oasis
+Arctic Monkeys,The Killers
+Arctic Monkeys,Placebo
+Arctic Monkeys,The Beatles
+Ke$ha,Lady Gaga
+System of a Down,Muse
+System of a Down,Metallica
+Green Day,Muse
+Radiohead,Death Cab for Cutie
+Radiohead,Franz Ferdinand
+Radiohead,Pearl Jam
+Radiohead,Coldplay
+Radiohead,Placebo
+Radiohead,The Beatles
+Snow Patrol,Muse
+The Kooks,Muse
+The Kooks,Arctic Monkeys
+The Strokes,Muse
+The Strokes,Arctic Monkeys
+The Strokes,Radiohead
+The Strokes,The Killers
+The Strokes,The Beatles
+Linkin Park,Muse
+Led Zeppelin,The Beatles
+Pink Floyd,Muse
+Pink Floyd,Radiohead
+Pink Floyd,Led Zeppelin
+Pink Floyd,The Beatles
+Foo Fighters,Muse
+Foo Fighters,Radiohead
+Kings of Leon,Muse
+Kings of Leon,Radiohead
+Kings of Leon,Coldplay
+Kings of Leon,The Killers
+MGMT,Muse
+MGMT,Arctic Monkeys
+MGMT,The Beatles
+30 Seconds to Mars,Muse
+Coldplay,Placebo
+Nirvana,Muse
+Nirvana,Arctic Monkeys
+Nirvana,Radiohead
+Nirvana,Pearl Jam
+Nirvana,Foo Fighters
+Nirvana,Coldplay
+Nirvana,Oasis
+Nirvana,Placebo
+Nirvana,Red Hot Chili Peppers
+Nirvana,The Beatles
+Oasis,Muse
+Oasis,Radiohead
+Oasis,Coldplay
+Oasis,The Killers
+Oasis,The Beatles
+The Killers,Radiohead
+The Killers,Coldplay
+The Killers,Placebo
+The Killers,The Beatles
+Iron Maiden,Metallica
+Queen,The Beatles
+The Smiths,The Cure
+The Smiths,Radiohead
+The Smiths,The Beatles
+Red Hot Chili Peppers,Muse
+Red Hot Chili Peppers,Radiohead
+Red Hot Chili Peppers,Foo Fighters
+Red Hot Chili Peppers,Coldplay
+Red Hot Chili Peppers,The Killers
+Red Hot Chili Peppers,The Beatles
+The Beatles,Death Cab for Cutie
+The Beatles,Franz Ferdinand
+The Beatles,The Rolling Stones
+The Beatles,Coldplay
+David Bowie,Radiohead
+David Bowie,The Beatles
+Lady Gaga,Muse
+Lady Gaga,Lily Allen
+Lady Gaga,Coldplay
+Lady Gaga,Rihanna
+Lady Gaga,The Beatles
